@@ -1,0 +1,23 @@
+{
+  "name": "node-require-enhance",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/witcom/node-require-enhance.git"
+  },
+  "keywords": [
+    "node",
+    "require"
+  ],
+  "author": "Vincent Chan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/witcom/node-require-enhance/issues"
+  },
+  "homepage": "https://github.com/witcom/node-require-enhance#readme"
+}
